@@ -20,7 +20,8 @@ module.exports = {
           '/venue',
           '/registeration',
           '/sponsor',
-          '/contact'
+          '/contact',
+          '/comment'
         ]
       }
 }

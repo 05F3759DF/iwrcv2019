@@ -23,6 +23,11 @@ function integrateGitalk(router) {
         commentsContainer = document.createElement('div');
         commentsContainer.id = 'gitalk-container';
         commentsContainer.classList.add('content');
+      } else if (to.fullPath.startsWith('/comment.html')){
+        commentsContainer.style.display = "inherit";
+      } else {
+        commentsContainer.style.display = "none";
+        return;
       }
       const $page = document.querySelector('.page');
       if ($page) {
@@ -33,10 +38,12 @@ function integrateGitalk(router) {
       }
     }
     function renderGitalk(fullPath) {
+      console.log(fullPath, fullPath.startsWith('/comment.html'), !fullPath.startsWith('/comment.html'))   
+      if (!fullPath.startsWith('/comment.html')) return;
       const gitalk = new Gitalk({
-        clientID: 'xxx',
-        clientSecret: 'xxx', // come from github development
-        repo: 'blog',
+        clientID: '015177d5625e00523ef6',
+        clientSecret: '7760b2a43b407a95aa064ad646a6525c5356bdd3',
+        repo: 'iwrcv2019',
         owner: 'dog2cat',
         admin: ['dog2cat'],
         id: 'comment',
