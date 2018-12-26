@@ -1,5 +1,5 @@
 # Contact
 
-## IWRCV 2019 organizers:
+For any questions or suggestions, please contact via email:
 
-[XXX@pku.edu.cn](mailto:XXX@pku.edu.cn)
+[iwrcv2019@cis.pku.edu.cn](mailto:iwrcv2019@cis.pku.edu.cn)

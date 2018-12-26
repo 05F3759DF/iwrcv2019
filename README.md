@@ -1,24 +1,21 @@
-# The 13th International Workshop on Robust Computer Vision
+# Information
 ## Date
 
 Jan. 12-13, 2019
 
 ## Venue
 
-Peking University, China
+**Peking University, China**
 
-## Best Poster Presentation Award
-
+*Click [here](/venue.html) for detail.*
 
 ## Instruction for presenters
 
 ### Oral presenters
-Format: 15 min. presentation + 4 min. questions
+Format: **15 min.** presentation + **4 min.** questions
 
 ### Spotlight presenters
-Format: 1 min. presentation; no question
-
-Slide template
+Format: **1 min.** presentation; **no** question
 
 ### Poster presenters
 
@@ -32,6 +29,7 @@ This IWRCV 2019 website opened.
 
 ## Contact
 
-### IWRCV 2019 organizers:
+[iwrcv2019@cis.pku.edu.cn](mailto:iwrcv2019@cis.pku.edu.cn)
 
-[XXX@pku.edu.cn](mailto:XXX@pku.edu.cn)
+## Comment 
+You can leave messages on this [page](/comment.html), if you want to share something with others online.  

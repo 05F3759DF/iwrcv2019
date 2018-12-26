@@ -1,4 +1,4 @@
-# Registeration
+# Registration
 
 ## Registration fee
 

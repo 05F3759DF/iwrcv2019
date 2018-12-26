@@ -38,7 +38,6 @@ function integrateGitalk(router) {
       }
     }
     function renderGitalk(fullPath) {
-      console.log(fullPath, fullPath.startsWith('/comment.html'), !fullPath.startsWith('/comment.html'))   
       if (!fullPath.startsWith('/comment.html')) return;
       const gitalk = new Gitalk({
         clientID: '015177d5625e00523ef6',
